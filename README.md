@@ -27,7 +27,7 @@ conda env create -n asie --file environment.yml
 conda activate asie
 ```
 
-3. Download the pre-trained models and place them in the root directory of the cloned repository. The models can be downloaded from [this link](https://ufrgscpd-my.sharepoint.com/:f:/g/personal/00330519_ufrgs_br/EnzAQbs3_4FHlbxemScpD9IBVKNpGUbXRH0Oqqw7nFkYGA?e=vRbBpS).
+3. Download the pre-trained models and place them in the root directory of the cloned repository. The models can be downloaded from [this link](https://ulbraedu-my.sharepoint.com/:u:/g/personal/maikel_ronnau_ulbra_edu_br/Ea0qk2iGH1NNp1rewXfvXtsBd4K3aYY4ATTrw2JxBlcbIQ?e=lAJNaV).
 
 Make sure the model file you want to use matches the `MODEL_PATH` value in the `utils/utils.py` file.
 
